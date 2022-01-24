@@ -4,16 +4,16 @@ title: sss
 id: UDM-1BK3-VHV-FXT
 slug: sss
 isVisible: true
-lastUpdated: '2022-01-22 02:09:17'
+lastUpdated: '2022-01-24 21:21:52'
 ---
 # Inventories
 
-## Microssssdsdoft 365
+## Microsoft 365
 
 Insventories in service [Microsoft 365](/governance/technical-documentation/references/inventory/Office365Groups)
 
 | Inventory | Description |
-|-----------|-------------|
+| --- | --- |
 | [User](/governance/technical-documentation/references/inventory/Office365Groups/userentity) | Lists users in the M365 Tenant |
 | [Group](/governance/technical-documentation/references/inventory/Office365Groups/groupentity) | Lists AD groups in the M365 Tenant |
 | [Sensitivity label](/governance/technical-documentation/references/inventory/Office365Groups/sensitivitylabelentity) | Collects information about Sensitivity labels |
