@@ -4,9 +4,9 @@ title: sss
 id: UDM-1BK3-VHV-FXT
 slug: sss
 isVisible: true
-lastUpdated: '2022-01-26 18:02:10'
+lastUpdated: '2022-01-26 18:53:28'
 ---
-# Inventories
+# Inventoriess
 
 [link to index](http:#?target=QFY-31I-07S-AQ5)
 
