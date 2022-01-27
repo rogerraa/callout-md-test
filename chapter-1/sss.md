@@ -8,7 +8,7 @@ lastUpdated: '2022-01-26 19:03:09'
 ---
 # Inventorsiesss
 
-[link to index](http:#?target=QFY-31I-07S-AQ5)
+[link to index](/chapter-1)
 
 ## Microsoft 365s
 
