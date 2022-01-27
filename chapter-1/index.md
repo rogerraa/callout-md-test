@@ -6,6 +6,6 @@ slug: index
 isVisible: true
 lastUpdated: '2022-01-27 19:49:19'
 ---
-HERE slkink to [sss](/chapter-1/sss)
+HERE slkink to [sss](http:#?target=UDM-1BK3-VHV-FXT)
 
 <div class="sd-callout" data-callout-type="tip">Callout <a href="https://yahoo.com" target="_blank" rel="noopener noreferrer nofollow">link</a>. <strong>This is boldks</strong></div>

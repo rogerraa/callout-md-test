@@ -4,11 +4,11 @@ title: sss
 id: UDM-1BK3-VHV-FXT
 slug: sss
 isVisible: true
-lastUpdated: '2022-01-27 19:49:30'
+lastUpdated: '2022-01-27 20:02:17'
 ---
-# Inventorsiesss
+# Inventorsiesssd
 
-[link to index](/chapter-1)
+[link to index](http:#?target=QFY-31I-07S-AQ5)
 
 ## Microsoft 365s
 
