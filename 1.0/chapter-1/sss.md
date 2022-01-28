@@ -8,7 +8,7 @@ lastUpdated: '2022-01-27 20:02:55'
 ---
 # Invedntorsiesssd
 
-[link to index](/chapter-1)
+[link to index](/1.0/chapter-1)
 
 ## Microsoft 365s
 
