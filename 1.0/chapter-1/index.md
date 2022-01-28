@@ -6,6 +6,6 @@ slug: index
 isVisible: true
 lastUpdated: '2022-01-28 17:37:15'
 ---
-HERE link to [sss](/1.0/chapter-1/sss)
+link to [sss](/1.0/chapter-1/sss)
 
 <div class="sd-callout" data-callout-type="tip">Callout <a href="https://yahoo.com" target="_blank" rel="noopener noreferrer nofollow">link</a>. <strong>This is boldks</strong></div>
