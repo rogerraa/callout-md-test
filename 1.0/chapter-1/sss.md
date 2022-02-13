@@ -8,7 +8,7 @@ lastUpdated: '2022-02-13 16:43:46'
 ---
 # NEWs
 
-[link to index](/1.0/chapter-1)
+[link to index](/1.0/chapter-4)
 
 ## Microsoft 365s
 
