@@ -6,6 +6,6 @@ slug: index
 isVisible: true
 lastUpdated: '2022-02-13 17:14:32'
 ---
-link to [sss](http:#?target=UDM-1BK3-VHV-FXT) lpasdds
+link to [sss](/1.0/chapter-4/sss) lpasdds
 
 <div class="sd-callout" data-callout-type="tip">Callout <a href="https://yahoo.com" target="_blank" rel="noopener noreferrer nofollow">link</a>. <strong>This is boldks</strong></div>
