@@ -10,7 +10,7 @@ lastUpdated: '2022-02-17 18:11:25'
 
 [link to index](/1.0/chapter-5)
 
-## Microsoft 365s
+## Microsoft 365ss
 
 <sup>Insventories</sup> in service [Microsoft 365](/governance/technical-documentation/references/inventory/Office365Groups)
 
