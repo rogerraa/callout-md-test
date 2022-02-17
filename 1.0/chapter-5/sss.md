@@ -4,15 +4,15 @@ title: sss
 id: UDM-1BK3-VHV-FXT
 slug: sss
 isVisible: true
-lastUpdated: '2022-02-13 19:30:33'
+lastUpdated: '2022-02-17 18:11:25'
 ---
-# NEWssja
+# asdasssssskdas
 
-[link to index](/1.0/chapter-4)
+[link to index](/1.0/chapter-5)
 
 ## Microsoft 365s
 
-Insventories in service [Microsoft 365](/governance/technical-documentation/references/inventory/Office365Groups)
+<sup>Insventories</sup> in service [Microsoft 365](/governance/technical-documentation/references/inventory/Office365Groups)
 
 | Inventory | Description |
 | --- | --- |
