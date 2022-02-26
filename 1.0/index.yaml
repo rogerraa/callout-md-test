@@ -1,5 +1,7 @@
 - first:
   - index
+  - section:
+    - index
 - chapter-5:
   - index
   - sadfs
