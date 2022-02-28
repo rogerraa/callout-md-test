@@ -6,6 +6,6 @@ slug: index
 isVisible: true
 lastUpdated: '2022-02-13 19:30:52'
 ---
-link to [sss](/1.0/chapter-5/sss) lpasddsd
+link to [sss](/1.0/chapter-5/page) lpasddsd
 
 <div class="sd-callout" data-callout-type="tip">Callout <a href="https://yahoo.com" target="_blank" rel="noopener noreferrer nofollow">link</a>. <strong>This is boldks</strong></div>
