@@ -1,20 +1,8 @@
-- chapter-5:
+- chapter-1:
   - index
-  - page
-- first:
+  - index-duplicate
+- chapter-duplicate-2:
   - index
-  - page
-  - asda
-  - section:
-    - index
-- new80:
-  - index
-  - gfdsg
-- new:
-  - index
-  - sdfsf:
-    - index
-    - sdfsf:
-      - index
-- newer:
+  - index-duplicate
+- chapter-1-duplicate:
   - index

@@ -1,26 +1,22 @@
 ---
 # snazzyDocs - DO NOT REMOVE OR EDIT BELOW THIS LINE
-title: Page
-id: UDM-1BK3-VHV-FXT
-slug: page
+title: Index
+id: MYS-U27B-487-NH3
+slug: index
 isVisible: true
-lastUpdated: '2022-02-27 23:18:38'
+lastUpdated: '2022-03-05 19:09:47'
 ---
-# asdasssssskdas
+# Inventoriess
 
-chapter-5/sss.md <sup>sdf</sup>
+## Microssssdsdoft 365
 
-[link to index](/1.0/chapter-5)
-
-## Microsoft 365ss
-
-<sup>Insventories</sup> in service [Microsoft 365](/governance/technical-documentation/references/inventory/Office365Groups)
+Insventories in service [Microsoft 365](/governance/technical-documentation/references/inventory/Office365Groups)
 
 | Inventory | Description |
 | --- | --- |
-| [User](/governance/technical-documentation/references/inventory/Office365Groups/userentity) | Lists users in the M365 Tenant |
+| [User](/governance/technical-documentation/references/inventory/Office365Groups/userentity) | ![MarineGEO circle logo](https://img.search.brave.com/DXLLbCEkOuFFiDkji5ZiAYLXMBPdh_t9STxTqdFQUZw/rs:fit:1024:640:1/g:ce/aHR0cHM6Ly93d3cu/d2FsbHBhcGVyczEz/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMC8wMi9TdW5y/aXNlLW92ZXItdGhl/LXNlYS1yZWQtY2xv/dWRzLWhvcml6b24t/aW1hZ2UtZm9yLXdh/bGxwYXBlcnMtSGQt/MTAyNHg2NDAuanBn "MarineGEO logo") |
 | [Group](/governance/technical-documentation/references/inventory/Office365Groups/groupentity) | Lists AD groups in the M365 Tenant |
-| [Sensitivity label](/governance/technical-documentation/references/inventory/Office365Groups/sensitivitylabelentity) | Collects information about Sensitivity labels |
+| [Sensitivity label](/governance/technical-documentation/references/inventory/Office365Groups/sensitivitylabelentity) | Collects informastion about Sensitivity labels |
 | [License](/governance/technical-documentation/references/inventory/Office365Groups/licenseentity) | Lists available Licenses for the M365 Tenant |
 | [Service plan assignment](/governance/technical-documentation/references/inventory/Office365Groups/serviceplanassignmententity) | Shows the date when a license has been assigned to a user |
 | [Message center message](/governance/technical-documentation/references/inventory/Office365Groups/messagecenterentity) | Collects messages from message center |

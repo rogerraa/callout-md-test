@@ -1,9 +1,0 @@
----
-# snazzyDocs - DO NOT REMOVE OR EDIT BELOW THIS LINE
-title: Index
-id: 43R-WQ0N-JN2-012
-slug: index
-isVisible: true
-lastUpdated: '2022-02-28 16:10:10'
----
-This islsdfsdf
