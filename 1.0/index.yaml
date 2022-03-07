@@ -1,8 +1,10 @@
 - chapter-1:
   - index
-  - index-duplicate
-- chapter-duplicate-2:
-  - index
-  - index-duplicate
+  - huhu:
+    - index
 - chapter-1-duplicate:
   - index
+  - sdfsd
+- chapter-1-duplicate-2:
+  - index
+  - jij

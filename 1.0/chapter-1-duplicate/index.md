@@ -1,12 +1,14 @@
 ---
 # snazzyDocs - DO NOT REMOVE OR EDIT BELOW THIS LINE
 title: Index
-id: MYS-U27B-487-NH3
+id: N41-EW42-0Y6-5GJ
 slug: index
 isVisible: true
-lastUpdated: '2022-03-05 19:09:47'
+lastUpdated: '2022-03-07 04:27:35'
 ---
-# Inventoriess
+# Inventories
+
+[link](#asdf)
 
 ## Microssssdsdoft 365
 
@@ -23,3 +25,51 @@ Insventories in service [Microsoft 365](/governance/technical-documentation/refe
 | [App](/governance/technical-documentation/references/inventory/Office365Groups/serviceplanentity) | Lists available M365 apps/services which can enabled per license |
 | [User Activity Report](/governance/technical-documentation/references/inventory/Office365Groups/useractivityentity) | Shows details about user activity in M365 |
 | [Deleted User](/governance/technical-documentation/references/inventory/Office365Groups/deleteduserentity) | Collects information about deleted users in an Office 365 Group |
+
+<br />
+
+<br />
+
+<br />
+
+## asdasd
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+## asdfs
+
+<br />
+
+asdf
+
+sad
+
+f
+
+## sda
+
+<br />
+
+<br />
+
+<br />
+
+## asdf
+
+<br />
+
+<br />
+
+## asdfasssdf
+
+<br />
+
+<br />
+
+## asdfasdf
