@@ -4,7 +4,7 @@ title: Index
 id: N41-EW42-0Y6-5GJ
 slug: index
 isVisible: true
-lastUpdated: '2022-03-07 04:55:37'
+lastUpdated: '2022-03-07 04:56:20'
 ---
 # Inventories
 
@@ -40,7 +40,7 @@ Insventories in service [Microsoft 365](/governance/technical-documentation/refe
 
 <br />
 
-ssssssss<br />
+sssssssss<br />
 ss
 
 ## asdfs
