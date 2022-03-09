@@ -1,2 +1,16 @@
+- chapter-1:
+  - index
+  - asda:
+    - index
+- chapter-duplicate-2:
+  - index
+  - asda:
+    - index
+- chapter-duplicate-3:
+  - index
+  - asda:
+    - index
 - chapter-1-duplicate:
   - index
+  - asda:
+    - index
