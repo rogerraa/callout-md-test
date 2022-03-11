@@ -1,10 +1,10 @@
 ---
 # snazzyDocs - DO NOT REMOVE OR EDIT BELOW THIS LINE
 title: Index
-id: 89T-BVVS-QJU-RHU
+id: Q0S-HVJ9-757-E4G
 slug: index
 isVisible: true
-lastUpdated: '2022-03-10 00:25:49'
+lastUpdated: '2022-03-10 00:31:10'
 ---
 <h1>Inventories</h1>
 <h2>Microssssdsdoft 365</h2>

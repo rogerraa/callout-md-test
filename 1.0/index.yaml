@@ -1,16 +1,66 @@
 - chapter-1:
   - index
-  - asda:
+  - asdas:
     - index
-- chapter-duplicate-2:
+- chapter-1-duplicate-5:
   - index
-  - asda:
+  - asdas:
     - index
-- chapter-duplicate-3:
-  - index
-  - asda:
+  - asdas-duplicate:
     - index
 - chapter-1-duplicate:
   - index
-  - asda:
+  - asdas:
+    - index
+- chapter-1-duplicate-2:
+  - index
+  - asdas:
+    - index
+  - asdas-duplicate:
+    - index
+- chapter-1-duplicate-3:
+  - index
+  - asdas:
+    - index
+- chapter-1-duplicate-4:
+  - index
+  - asdas:
+    - index
+- chapter-1-duplicate-6:
+  - index
+  - asdas:
+    - index
+- chapter-1-duplicate-7:
+  - index
+  - asdas:
+    - index
+- chapter-1-duplicate-8:
+  - index
+  - asdas:
+    - index
+- chapter-1-duplicate-9:
+  - index
+  - asdas:
+    - index
+- chapter-1-duplicate-10:
+  - index
+  - asdas:
+    - index
+- chapter-1-duplicate-11:
+  - index
+  - asdas:
+    - index
+  - asdas-duplicate:
+    - index
+- chapter-1-duplicate-12:
+  - index
+  - asdas:
+    - index
+  - asdas-duplicate:
+    - index
+- chapter-1-duplicate-13:
+  - index
+  - asdas:
+    - index
+  - asdas-duplicate:
     - index
