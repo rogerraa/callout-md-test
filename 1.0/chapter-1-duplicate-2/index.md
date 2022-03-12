@@ -1,10 +1,10 @@
 ---
 # snazzyDocs - DO NOT REMOVE OR EDIT BELOW THIS LINE
 title: Index
-id: FAP-P9IN-8IS-1LL
+id: YND-KNMH-JHM-5VQ
 slug: index
 isVisible: true
-lastUpdated: '2022-03-12 19:13:34'
+lastUpdated: '2022-03-12 19:18:01'
 ---
 <h1>Inventories</h1>
 <h2>Microssssdsdoft 365</h2>

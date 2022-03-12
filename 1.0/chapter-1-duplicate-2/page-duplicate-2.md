@@ -1,8 +1,8 @@
 ---
 # snazzyDocs - DO NOT REMOVE OR EDIT BELOW THIS LINE
-title: Page
-id: Q62-OHXC-Z9X-XJD
+title: 'Page (Duplicate) 2'
+id: BZK-SXQZ-Y43-ANR
 slug: page
 isVisible: true
-lastUpdated: '2022-03-12 19:13:31'
+lastUpdated: '2022-03-12 19:18:01'
 ---

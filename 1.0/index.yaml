@@ -1,6 +1,28 @@
 - chapter-1:
   - index
   - page
-- chapter-1-duplicate:
+  - page-duplicate
+  - page-duplicate-2
+  - section-duplicate:
+    - index
+  - section:
+    - index
+  - section-duplicate-2:
+    - index
+- chapter-1-duplicate-2:
   - index
   - page
+  - page-duplicate
+  - page-duplicate-2
+  - section-duplicate:
+    - index
+  - section:
+    - index
+  - section-duplicate-2:
+    - index
+- chapter-1-duplicate:
+  - index
+  - section-duplicate:
+    - index
+    - asdasd
+    - asdas
