@@ -1,8 +1,8 @@
 - chapter-1:
   - index
-  - page
-  - page-duplicate
   - page-duplicate-2
+  - page-duplicate
+  - page
   - section-duplicate:
     - index
   - section:
@@ -13,10 +13,3 @@
   - the-page
 - new:
   - index
-- chapter-1-duplicate:
-  - index
-  - section-duplicate:
-    - index
-    - asdasd
-    - asdas
-  - mkmk
