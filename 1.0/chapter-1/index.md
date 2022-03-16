@@ -4,7 +4,7 @@ title: Index
 id: ZEA-KUK-K9L-L4R
 slug: index
 isVisible: true
-lastUpdated: '2022-03-16 03:52:47'
+lastUpdated: '2022-03-16 03:55:23'
 ---
 # Inventories
 
