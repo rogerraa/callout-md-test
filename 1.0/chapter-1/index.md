@@ -4,17 +4,17 @@ title: Index
 id: ZEA-KUK-K9L-L4R
 slug: index
 isVisible: true
-lastUpdated: '2022-03-16 03:21:16'
+lastUpdated: '2022-03-16 03:35:43'
 ---
 # Inventories
 
-## Micsrosssssdsdoft 365
+## Microssssdsdoft 365
 
 Insventories in service [Microsoft 365](/governance/technical-documentation/references/inventory/Office365Groups)
 
 | Inventory | Description |
-| --- | --- |
-| [User](/governance/technical-documentation/references/inventory/Office365Groups/userentity) | ![MarineGEO circle logo](https://img.search.brave.com/DXLLbCEkOuFFiDkji5ZiAYLXMBPdh_t9STxTqdFQUZw/rs:fit:1024:640:1/g:ce/aHR0cHM6Ly93d3cu/d2FsbHBhcGVyczEz/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMC8wMi9TdW5y/aXNlLW92ZXItdGhl/LXNlYS1yZWQtY2xv/dWRzLWhvcml6b24t/aW1hZ2UtZm9yLXdh/bGxwYXBlcnMtSGQt/MTAyNHg2NDAuanBn "MarineGEO logo") |
+|---|---|
+| [User](/governance/technical-documentation/references/inventory/Office365Groups/userentity) | <img alt="MarineGEO circle logo" src="https://img.search.brave.com/DXLLbCEkOuFFiDkji5ZiAYLXMBPdh_t9STxTqdFQUZw/rs:fit:1024:640:1/g:ce/aHR0cHM6Ly93d3cu/d2FsbHBhcGVyczEz/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMC8wMi9TdW5y/aXNlLW92ZXItdGhl/LXNlYS1yZWQtY2xv/dWRzLWhvcml6b24t/aW1hZ2UtZm9yLXdh/bGxwYXBlcnMtSGQt/MTAyNHg2NDAuanBn" title="MarineGEO logo" /> |
 | [Group](/governance/technical-documentation/references/inventory/Office365Groups/groupentity) | Lists AD groups in the M365 Tenant |
 | [Sensitivity label](/governance/technical-documentation/references/inventory/Office365Groups/sensitivitylabelentity) | Collects informastion about Sensitivity labels |
 | [License](/governance/technical-documentation/references/inventory/Office365Groups/licenseentity) | Lists available Licenses for the M365 Tenant |
