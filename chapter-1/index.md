@@ -8,7 +8,7 @@ lastUpdated: '2022-03-18 18:28:41'
 ---
 # Inventories
 
-[link](/1.0/chapter-2/page)
+[link](/chapter-2/page)
 
 ## Microssssdsdoft 365
 
