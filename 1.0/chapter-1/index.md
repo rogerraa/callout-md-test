@@ -4,11 +4,11 @@ title: Index
 id: ZEA-KUK-K9L-L4R
 slug: index
 isVisible: true
-lastUpdated: '2022-03-23 21:42:24'
+lastUpdated: '2022-03-23 21:45:25'
 ---
 # Inventories
 
-## ssMicrossssdsdoft 36s5sdssssss
+## ssMicrossssdsdoft 36s5sdssssssd
 
 sInsventories in service [Microsoft 365](/governance/technical-documentation/references/inventory/Office365Groups)
 
