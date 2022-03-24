@@ -1,9 +1,8 @@
-- section:
-  - index
-- chapter-1:
-  - index
-  - asdasd:
-    - index
 - chapter-2:
   - index
-  - huh
+  - second
+- chapter-1:
+  - index
+  - section:
+    - index
+  - first
