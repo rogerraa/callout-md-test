@@ -1,8 +1,11 @@
-- chapter-2:
-  - index
-  - second
+- index
 - chapter-1:
   - index
   - section:
     - index
+- chapter-2:
+  - index
   - first
+  - second
+- uhuh:
+  - index
