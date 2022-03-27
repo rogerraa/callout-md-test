@@ -3,9 +3,21 @@
   - index
   - section:
     - index
+  - section-duplicate:
+    - index
+  - section-duplicate-3:
+    - index
+  - section-duplicate-2:
+    - index
+    - jiji:
+      - index
 - chapter-2:
   - index
   - first
   - second
 - uhuh:
   - index
+- chapter-2-duplicate:
+  - index
+  - first
+  - second
