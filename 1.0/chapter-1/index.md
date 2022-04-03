@@ -4,13 +4,13 @@ title: Index
 id: ZEA-KUK-K9L-L4R
 slug: index
 isVisible: true
-lastUpdated: '2022-04-03 17:21:13'
+lastUpdated: '2022-04-03 18:34:43'
 ---
 # Inventories
 
 ## Microssssdsdoft 365
 
-Insvenstories in sersdvice [Microsoft 365](/governance/technical-documentation/references/inventory/Office365Groups)
+Insvenstoriesasd in sersdvice [Microsoft 365](/governance/technical-documentation/references/inventory/Office365Groups)
 
 | Inventory | Description |
 | --- | --- |
