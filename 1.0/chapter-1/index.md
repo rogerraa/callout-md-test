@@ -1,17 +1,17 @@
 ---
+collaborators: '1'
 # snazzyDocs - DO NOT REMOVE OR EDIT BELOW THIS LINE
 title: Index
 id: ZEA-KUK-K9L-L4R
 slug: index
 isVisible: true
-lastUpdated: '2022-04-04 22:48:12'
-collaborators: '1'
+lastUpdated: '2022-04-04 22:55:32'
 ---
 # Inventories
 
 ## Microssssdsdoft 365
 
-Insventoasssasriess in sservice [Microsoft 365](/governance/technical-documentation/references/inventory/Office365Groups)
+Insventoasssasriess in ssservice [Microsoft 365](/governance/technical-documentation/references/inventory/Office365Groups)
 
 | Inventory | Description |
 | --- | --- |
