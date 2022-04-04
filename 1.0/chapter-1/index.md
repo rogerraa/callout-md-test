@@ -1,21 +1,20 @@
 ---
-collaborators: '3,1'
-# snazzyDocs - DO NOT REMOVE OR EDIT BELOW THIS LINE
 title: Index
 id: ZEA-KUK-K9L-L4R
 slug: index
 isVisible: '1'
-lastUpdated: '2022-04-04 17:52:41'
+lastUpdated: '2022-04-04 22:21:54'
+collaborators: ''
 ---
 # Inventories
 
 ## Microssssdsdoft 365
 
-Insventorsies in service [Microsoft 365](/governance/technical-documentation/references/inventory/Office365Groups)
+Insventosries in service [Microsoft 365](/governance/technical-documentation/references/inventory/Office365Groups)
 
 | Inventory | Description |
 | --- | --- |
-| [User](/governance/technical-documentation/references/inventory/Office365Groups/userentity) |  |
+| [User](/governance/technical-documentation/references/inventory/Office365Groups/userentity) | ![MarineGEO circle logo](https://img.search.brave.com/DXLLbCEkOuFFiDkji5ZiAYLXMBPdh_t9STxTqdFQUZw/rs:fit:1024:640:1/g:ce/aHR0cHM6Ly93d3cu/d2FsbHBhcGVyczEz/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMC8wMi9TdW5y/aXNlLW92ZXItdGhl/LXNlYS1yZWQtY2xv/dWRzLWhvcml6b24t/aW1hZ2UtZm9yLXdh/bGxwYXBlcnMtSGQt/MTAyNHg2NDAuanBn "MarineGEO logo") |
 | [Group](/governance/technical-documentation/references/inventory/Office365Groups/groupentity) | Lists AD groups in the M365 Tenant |
 | [Sensitivity label](/governance/technical-documentation/references/inventory/Office365Groups/sensitivitylabelentity) | Collects informastion about Sensitivity labels |
 | [License](/governance/technical-documentation/references/inventory/Office365Groups/licenseentity) | Lists available Licenses for the M365 Tenant |
