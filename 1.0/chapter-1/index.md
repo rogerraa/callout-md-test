@@ -9,7 +9,7 @@ collaborators: '1'
 ---
 # Inventories
 
-## Microssssdsdoft 365
+d## Microssssdsdoft 365
 
 Insventoriesddd in service [Microsoft 365](/governance/technical-documentation/references/inventory/Office365Groups)
 
