@@ -4,17 +4,17 @@ title: Index
 id: ZEA-KUK-K9L-L4R
 slug: index
 isVisible: true
-lastUpdated: '2022-04-05 02:42:06'
+lastUpdated: '2022-04-13 18:51:23'
 ---
 # Inventories
 
 ## Microssssdsdoft 365
 
-Insventoriess in sservice [Microsoft 365](/governance/technical-documentation/references/inventory/Office365Groups)
+Insventories in service [Microsoft 365](/governance/technical-documentation/references/inventory/Office365Groups)
 
 | Inventory | Description |
 | --- | --- |
-| [User](/governance/technical-documentation/references/inventory/Office365Groups/userentity) | ss |
+| [User](/governance/technical-documentation/references/inventory/Office365Groups/userentity) |  |
 | [Group](/governance/technical-documentation/references/inventory/Office365Groups/groupentity) | Lists AD groups in the M365 Tenant |
 | [Sensitivity label](/governance/technical-documentation/references/inventory/Office365Groups/sensitivitylabelentity) | Collects informastion about Sensitivity labels |
 | [License](/governance/technical-documentation/references/inventory/Office365Groups/licenseentity) | Lists available Licenses for the M365 Tenant |
