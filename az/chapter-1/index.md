@@ -4,9 +4,9 @@ title: Index
 id: ZEA-KUK-K9L-L4R
 slug: index
 isVisible: true
-lastUpdated: '2022-04-14 22:08:14'
+lastUpdated: '2022-04-16 15:22:43'
 ---
-# Inventories
+# DIFF LANG Inventories
 
 ADDED
 
