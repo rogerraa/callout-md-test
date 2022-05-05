@@ -4,7 +4,7 @@ title: Index
 id: ZEA-KUK-K9L-L4R
 slug: index
 isVisible: true
-lastUpdated: '2022-05-03 04:39:08'
+lastUpdated: '2022-05-05 19:31:58'
 ---
 # EN Inventories
 
@@ -27,3 +27,43 @@ Insventories in service [Microsoft 365](/governance/technical-documentation/refe
 | [App](/governance/technical-documentation/references/inventory/Office365Groups/serviceplanentity) | Lists available M365 apps/services which can enabled per license |
 | [User Activity Report](/governance/technical-documentation/references/inventory/Office365Groups/useractivityentity) | Shows details about user activity in M365 |
 | [Deleted User](/governance/technical-documentation/references/inventory/Office365Groups/deleteduserentity) | Collects information about deleted users in an Office 365 Group |
+
+<br />
+
+sadf
+
+sadf
+
+s
+
+df
+
+sadf<br />
+
+sd
+
+af
+
+sadf<br />
+
+sdf<br />
+
+<br />
+
+asdfdsa<br />
+
+<br />
+
+## heading 2
+
+sadfdsaf
+
+sdf
+
+asdf
+
+sad
+
+fs
+
+adf
