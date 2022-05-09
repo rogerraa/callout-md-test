@@ -10,7 +10,7 @@ lastUpdated: '2022-05-06 02:16:49'
 
 ADDED
 
-[link](/chapter-1/new)
+[link](/en/chapter-1/new)
 
 ## Microsoft 365
 
