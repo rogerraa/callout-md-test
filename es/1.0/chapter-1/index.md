@@ -4,13 +4,13 @@ title: Index
 id: ZEA-KUK-K9L-L4R
 slug: index
 isVisible: true
-lastUpdated: '2022-05-06 02:16:49'
+lastUpdated: '2022-05-11 18:17:20'
 ---
-# EN Inventoriesss
+# ES Inventoriesss
 
 ADDED
 
-[link](http:#?target=MIJ-O4QF-3IJ-3E7)
+[link](/es/1.0/chapter-1/new)
 
 ## Microsoft 365
 
